@@ -2,7 +2,7 @@ Hi! I'm **People** this is the first game project I've made in Unity. It's suppo
 Here's a video of the game. Also, if you want to download the game just to try it, I'll leave a link here for you to download it. 
 https://drive.google.com/drive/folders/1ahrjrBtnHSMQ5PiGX0b2HWbusayTdaVS?usp=drive_link
 
-[![Video title](https://img.youtube.com/vi/rGtSPIhGqnQ/0.jpg)](https://www.youtube.com/watch?v=rGtSPIhGqnQ)
+[![GAME_01](https://img.youtube.com/vi/rGtSPIhGqnQ/0.jpg)](https://www.youtube.com/watch?v=rGtSPIhGqnQ)
 
 
 I don’t own any of the assets I used in the game. If you want to download them, I’ve included all of them here.
